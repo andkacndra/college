@@ -1,0 +1,18 @@
+[
+    {
+        "nim": "123",
+        "nama": "andika",
+        "email": "andika@gmail.com",
+        "prodi": "Sistem Informasi",
+        "semester": "1",
+        "alamat": "surabaya"
+    },
+    {
+        "nim": "098",
+        "nama": "wulan",
+        "email": "wulan@gmail.com",
+        "prodi": "Sistem Informasi",
+        "semester": "1",
+        "alamat": "surabaya\r\n"
+    }
+]
